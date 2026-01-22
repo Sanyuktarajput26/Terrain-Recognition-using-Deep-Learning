@@ -5,7 +5,7 @@
 This repository contains the implementation of a terrain recognition system using deep learning. The primary goal of this project is to detect, classify, and predict terrain conditions, with a specific focus on roughness and slipperiness. Leveraging the Xception architecture and Convolutional Neural Networks (CNNs), our model aims to enhance terrain understanding in various applications.
 
 ## Moivation
- Terrain
+ The motivation behind building terrain recognition 
 
 ## Key Features
 
